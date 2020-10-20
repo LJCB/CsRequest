@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
-options: "6b924d6825dfc1cfc81f8a9f31649f3c"
-build_time: [1560880569, 133645000]
-inputs:
-  "/Users/luisj.capistran/Documents/FRamework request/CsRequest/CsRequest/CsRequest.swift": [9223372036, 854775807]
